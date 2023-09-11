@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianRios24
-- 👀 I’m interested in ... software engineer and CS
-- 🌱 I’m currently learning ... java 
-- 💞️ I’m looking to collaborate on ... anyone
+- 👀 I’m interested in ... software engineering and CS
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate with... anyone
 - 📫 How to reach me ... riosadrian@gmail.com
 
 <!---
